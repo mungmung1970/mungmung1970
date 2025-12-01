@@ -1,53 +1,81 @@
-<h2 align="center">👋 Hello, I'm Kelly Oh</h2>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" />
+  <!-- ↑ 필요 시 본인 아바타 URL로 교체 가능 -->
+</div>
+
+<h2 align="center">👋 Hi there! I'm Kelly Oh</h2>
 <p align="center">
-Senior Data Engineer • AI/ML Project Leader • 25+ Years in IT
+Senior Data Engineer & AI/ML Project Leader ✨ <br/>
+25+ years in IT • 20+ years PM/PL • AI & Data Platform Builder
 </p>
 
----
-
-### 🔥 About Me
-- 25년 경력 IT 전문가 / 20년 PM & PL
-- 데이터 엔지니어링, 빅데이터 플랫폼, DW/ETL 아키텍처 설계
-- 최근 **AI/ML/LLM 기반 프로젝트 기획 및 구축** 리딩
-- “기술로 비즈니스 임팩트 창출”을 목표로 일하고 있습니다
+<div align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-blog-link"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+</div>
 
 ---
 
-### 🚀 Technical Focus
-| 분야 | 핵심 기술 |
-|------|-----------|
-| Data Engineering | Spark, Airflow, Kafka, Oracle, Snowflake, Databricks |
-| Cloud | AWS (Glue, EMR, Redshift), Azure, GCP BigQuery |
-| AI/ML | PyTorch, Transformers, LangChain, MLflow, MLOps, RAG |
-| DevOps & Tools | Docker, Kubernetes, CI/CD, GitHub Actions |
+### 👩‍💻 About Me
+- Senior **Data Engineer / AI Platform Architect / PM & PL**
+- Specializing in **Big Data, MLOps, LLM, and Data Architecture**
+- Love building **AI systems that create real business value**
+- Passionate about **learning & sharing knowledge**
+
+💬 *“Technology should solve real problems — not just be exciting.”*
 
 ---
 
-### 🌟 Featured Projects
-| 프로젝트 | 역할 | 기술 | 내용 |
-|---------|------|------|------|
-| AI 상담 자동화 플랫폼 | PM | LLM, MLflow, AWS | 자동응대 정확도 64→89%, 연간 31억 비용절감 |
-| 공공 빅데이터 통합 | PL | Spark, Airflow | 42개 기관 데이터 표준화·연계, 응답속도 ×3 |
-| 데이터 허브 구축 | 아키텍트 | Kafka, Hadoop | 제조 IoT/MES 데이터 통합·예측기반 운영 |
+### 💪 Skills
 
-👉 상세 포트폴리오: **(Notion / Blog / Resume 링크 입력)**
+#### 🛠 Platforms & Languages
+| | |
+|---|---|
+| 🟦 Python | 🟨 SQL |
+| 🟧 PySpark | 🔹 Scala |
+| ☁ AWS / Azure / GCP | 🐘 Hadoop / Spark |
+| 🤖 PyTorch / Transformers | 🔗 LangChain / RAG |
+
+#### 🔧 Tools
+| Airflow | Kafka | Docker | Kubernetes | MLflow | GitHub Actions | Databricks |
 
 ---
 
-### 📌 Currently Learning & Building
-- LLM 파인튜닝 및 파이프라인 자동화
-- RAG + 에이전트 기반 업무자동화
-- AI 서비스 기획 / 데이터 제품화
+### 🚀 Featured Projects
+| 역할 | 프로젝트 | 핵심 성과 | 기술 |
+|------|----------|----------|------|
+| PM | AI 상담 자동화 플랫폼 | 정확도 64% → 89%, 연간 31억 절감 | LLM, PyTorch, AWS, MLflow |
+| PL | 공공 빅데이터 통합 | 42기관 데이터 연계, 응답속도 ×3 | Spark, Airflow |
+| 아키텍트 | 제조 데이터 허브 | 운영비 27% 절감 | Kafka, Hadoop, MES |
+
+➡ 포트폴리오 링크: _업데이트 예정_
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mungmung1970&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mungmung1970&layout=compact&theme=default" />
+</div>
+
+---
+
+### 🎯 Current Interests
+- RAG + MLOps + Agent-Based AI
+- LLM fine-tuning & AI automation pipeline
+- Data product / Data governance / AI service planning
+
+---
+
+### 🌈 Fun Facts
+🐶 My English name “Kelly” came from my dog  
+🎵 I work best with music  
+☕ Coffee & coding = perfect morning  
 
 ---
 
 ### 📫 Contact
-📧 이메일: (입력)  
-🔗 LinkedIn: (입력)  
-📌 Blog / Tech Note: (입력)
-
----
-
-### 🌈 Fun Fact
-🎵 음악으로 집중 올리는 스타일  
-🐶 ‘Kelly’라는 영어 이름도 반려견에서 따옴  
+📧 Email: your-email@gmail.com  
+🔗 LinkedIn: your-profile-link  
+📌 Blog: your-blog-link
