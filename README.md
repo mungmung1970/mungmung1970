@@ -1,81 +1,63 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%" />
-  <!-- ↑ 필요 시 본인 아바타 URL로 교체 가능 -->
-</div>
-
-<h2 align="center">👋 Hi there! I'm Kelly Oh</h2>
-<p align="center">
-Senior Data Engineer & AI/ML Project Leader ✨ <br/>
-25+ years in IT • 20+ years PM/PL • AI & Data Platform Builder
-</p>
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-blog-link"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-</div>
+# 👋 Hi, I'm **Kelly Oh (오민경)**  
 
 ---
 
-### 👩‍💻 About Me
-- Senior **Data Engineer / AI Platform Architect / PM & PL**
-- Specializing in **Big Data, MLOps, LLM, and Data Architecture**
-- Love building **AI systems that create real business value**
-- Passionate about **learning & sharing knowledge**
-
-💬 *“Technology should solve real problems — not just be exciting.”*
+## 🧠 About Me
+데이터/AI 기반 비즈니스 혁신에 관심이 많고,  
+**IT 프로젝트 관리(PM/PL/PMO) → 빅데이터/CRM → AI/Cloud** 로 경력을 확장해 왔습니다.  
+최근에는 생성형 AI와 LLM, RAG, Agent 기술을 체계적으로 학습하며  
+기술 역량 강화에 집중하고 있습니다.  
 
 ---
 
-### 💪 Skills
-
-#### 🛠 Platforms & Languages
-| | |
-|---|---|
-| 🟦 Python | 🟨 SQL |
-| 🟧 PySpark | 🔹 Scala |
-| ☁ AWS / Azure / GCP | 🐘 Hadoop / Spark |
-| 🤖 PyTorch / Transformers | 🔗 LangChain / RAG |
-
-#### 🔧 Tools
-| Airflow | Kafka | Docker | Kubernetes | MLflow | GitHub Actions | Databricks |
+## 🎓 Education
+- 연세대학교 문헌정보학과 학사 (1993)
+- 연세대학교 문헌정보학과 석사 — 정보검색 세부전공 (1995)
+- AI Engineer 정부지원 부트캠프 수강 중 (2025)
 
 ---
 
-### 🚀 Featured Projects
-| 역할 | 프로젝트 | 핵심 성과 | 기술 |
-|------|----------|----------|------|
-| PM | AI 상담 자동화 플랫폼 | 정확도 64% → 89%, 연간 31억 절감 | LLM, PyTorch, AWS, MLflow |
-| PL | 공공 빅데이터 통합 | 42기관 데이터 연계, 응답속도 ×3 | Spark, Airflow |
-| 아키텍트 | 제조 데이터 허브 | 운영비 27% 절감 | Kafka, Hadoop, MES |
+## 💼 Work Experience
+| Company | Period | Role / Work Summary |
+|--------|--------|---------------------|
+| **베스핀글로벌** | 2025.01 ~ 2025.07 | 한국수력원자력 생성형 AI 시스템 구축 — PMO |
+| **메가존클라우드** | 2023.12 ~ 2025.07 | CJ ENM Databricks Migration — PM & 모델러 |
+| **롯데정보통신** | 2015.03 ~ 2023.07 | CRM/BI/DW 프리세일즈, 분석/설계, PM/PL, 빅데이터 PoC |
+| **kt ds** | 2009.09 ~ 2013.02 | kt EDW 운영 및 차세대 BI/DW 구축 — 모델러 |
+| **LG CNS** | 2000.05 ~ 2008.04 | 공공 SI 제안·개발·설계·PM / 데이터 ISP 컨설팅 |
+| **한국직업능력개발원** | 1997.11 ~ 2000.05 | 정보자료팀 · IT 교육 수강 및 시스템 운영 |
+| **포항공과대학교** | 1995.08 ~ 1997.03 | 도서관 사서 · 도서관리시스템 유지보수·개발 |
 
-➡ 포트폴리오 링크: _업데이트 예정_
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mungmung1970&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mungmung1970&layout=compact&theme=default" />
-</div>
+> 상세 경력은 이력서를 참고해 주세요. :contentReference[oaicite:0]{index=0}
 
 ---
 
-### 🎯 Current Interests
-- RAG + MLOps + Agent-Based AI
-- LLM fine-tuning & AI automation pipeline
-- Data product / Data governance / AI service planning
+## 🔑 Core Competencies
+### 📌 PM / PL / PMO
+- 프로젝트 관리, 손익 및 일정/범위/이슈 관리  
+- 제안서 작성 및 임원/고객 PT 다수  
+- 공공 SI · 대기업 계열사 · AI 프로젝트 경험
+
+### 📌 Consulting / Presales
+- 공공/대기업 대상 제안 및 PMO 수행  
+- 컨설팅형 프로젝트 진행 경험  
+- Presales 조직 및 솔루션 사업 경험
+
+### 📌 Data & AI
+- 대용량 SQL (Oracle Exadata / IBM DB2 / Teradata)
+- BI/DW · CRM · ETL · 데이터시각화
+- Databricks / Treasure Data / Salesforce 마케팅클라우드
+- Python · PyTorch · ML/DL · NLP · LLM · RAG · Agent *(학습 & 실습 중)*
 
 ---
 
-### 🌈 Fun Facts
-🐶 My English name “Kelly” came from my dog  
-🎵 I work best with music  
-☕ Coffee & coding = perfect morning  
+## 🔥 Recent Interests
+| 분야 | 상세 |
+|------|-----|
+| **AI Tech & Presales** | AI 기술 기반 비즈니스/프로젝트 적용 방식 탐구 |
+| **Multimedia** | Adobe Premiere Pro / After Effect 학습 및 영상 콘텐츠 관심 |
+| **Self Management** | 감정·시간·기술성장 관리 최우선 목표 |
 
 ---
 
-### 📫 Contact
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: your-profile-link  
-📌 Blog: your-blog-link
+## 🛠 Tech Stack (학습 + 사용 경험 포함)
