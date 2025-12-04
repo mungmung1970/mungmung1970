@@ -60,5 +60,6 @@
 ---
 
 ## 🛠 Tech Stack (학습 + 사용 경험 포함)
-📄 [ML/DL/생성형AI 실험 노트북(Google Drive)](https://drive.google.com/drive/folders/13M5rZxkUdIXRYqXSZg5xK35OmSqo_481?hl=ko)
+📄 [Data & AI 자료정리(Naver Blog](https://blog.naver.com/mungmung0801/224098039260)
+<br>📄 [ML/DL/생성형AI 실험 노트북(Google Drive)](https://drive.google.com/drive/folders/13M5rZxkUdIXRYqXSZg5xK35OmSqo_481?hl=ko)
 <br>📄 [References(Notion)](https://www.notion.so/2095b9effb2a8061bfa4d148bf597b81?source=copy_link)
