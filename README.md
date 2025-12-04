@@ -60,3 +60,5 @@
 ---
 
 ## 🛠 Tech Stack (학습 + 사용 경험 포함)
+📄 [Tech Stack 상세 문서 보기 (Google Drive)](https://drive.google.com/file/d/XXXXXXXXXXXXX/view?usp=sharing)
+
