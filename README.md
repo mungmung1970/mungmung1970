@@ -60,5 +60,5 @@
 ---
 
 ## 🛠 Tech Stack (학습 + 사용 경험 포함)
-📄 [Tech Stack 상세 문서 보기 (Google Drive)](https://drive.google.com/file/d/XXXXXXXXXXXXX/view?usp=sharing)
-
+📄 [ML/DL/생성형AI 실험 노트북(Google Drive)](https://drive.google.com/file/d/XXXXXXXXXXXXX/view?usp=sharing)
+📄 [References(Notion)](https://drive.google.com/file/d/XXXXXXXXXXXXX/view?usp=sharing)
