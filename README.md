@@ -31,6 +31,13 @@
 ---
 
 ## 🔑 Core Competencies
+
+### 📌 Data & AI
+- 대용량 SQL (Oracle Exadata / IBM DB2 / Teradata)
+- BI/DW · CRM · ETL · 데이터시각화
+- Databricks / Treasure Data / Salesforce 마케팅클라우드
+- Python · PyTorch · ML/DL · NLP · LLM · RAG · Agent *(학습 & 실습 중)*
+
 ### 📌 PM / PL / PMO
 - 프로젝트 관리, 손익 및 일정/범위/이슈 관리  
 - 제안서 작성 및 임원/고객 PT 다수  
@@ -41,11 +48,6 @@
 - 컨설팅형 프로젝트 진행 경험  
 - Presales 조직 및 솔루션 사업 경험
 
-### 📌 Data & AI
-- 대용량 SQL (Oracle Exadata / IBM DB2 / Teradata)
-- BI/DW · CRM · ETL · 데이터시각화
-- Databricks / Treasure Data / Salesforce 마케팅클라우드
-- Python · PyTorch · ML/DL · NLP · LLM · RAG · Agent *(학습 & 실습 중)*
 
 ---
 
