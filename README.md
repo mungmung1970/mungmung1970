@@ -58,7 +58,6 @@
 |------|-----|
 | **AI Tech & Presales** | AI 기술 기반 비즈니스/프로젝트 적용 방식 탐구 |
 | **Multimedia** | Adobe Premiere Pro / After Effect 학습 및 영상 콘텐츠 관심 |
-| **Self Management** | 감정·시간·기술성장 관리 최우선 목표 |
 
 ---
 
