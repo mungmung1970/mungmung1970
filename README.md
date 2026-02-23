@@ -21,6 +21,7 @@
 ## 💼 Work Experience
 | Company | Period | Role / Work Summary |
 |--------|--------|---------------------|
+| **Surromind** | 2026.02 ~  |SI PM|
 | **베스핀글로벌** | 2025.01 ~ 2025.07 | 한국수력원자력 생성형 AI 시스템 구축 — PMO |
 | **메가존클라우드** | 2023.12 ~ 2025.07 | CJ ENM Databricks Migration — PM & 모델러 |
 | **롯데정보통신** | 2015.03 ~ 2023.07 | CRM/BI/DW 프리세일즈, 분석/설계, PM/PL, 빅데이터 PoC |
